@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title>Insert title here</title>
+<title>nahyun</title>
 </head>
 <body>
-
+login 폴더 내의 index.jsp
 </body>
 </html>
