@@ -1,0 +1,11 @@
+@charset "EUC-KR";
+body {
+	background-color: #ffffff;
+	background-position: top left;
+	background-repeat: repeat;
+	background-size:;
+}
+
+.page .page-block .block-inner {
+	background-color: transparent;
+}
