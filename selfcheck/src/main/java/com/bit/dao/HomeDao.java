@@ -1,5 +1,5 @@
 package com.bit.dao;
 
-public class HomeDao {
+public class HomeDAO {
 
 }
